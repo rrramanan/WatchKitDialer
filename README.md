@@ -13,8 +13,8 @@ Force Touch to explore more option
 <ul>
 <li>Save - Dial any number, force touch dial pad & save the contact  </li>
 <li>Recent - Call log </li>
-<li>Saved List - View the saved contacts</li>
-<li>Force Touch inside Recent/Saved list to delete entite details</li>
+<li>Saved List - View saved contacts</li>
+<li>Force Touch inside Recent/Saved list to delete entite details from watch and iPhone</li>
 </ul>
 ![alt Tab](https://github.com/rrramanan/WatchKitDialer/blob/master/img4.png)
 <br><br>
