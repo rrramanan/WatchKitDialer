@@ -31,7 +31,7 @@ More Tab
 <li>Delete All Calls - Deletes all call log from phone and watch</li>
 <li>Delete All Saved - Deletes all saved conatcts from phone and watch</li>
 </ul>
-
+<br>
 ![alt Tab](https://github.com/rrramanan/WatchKitDialer/blob/master/img5.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![alt Tab](https://github.com/rrramanan/WatchKitDialer/blob/master/img6.png)
 
