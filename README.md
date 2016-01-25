@@ -18,9 +18,9 @@ Force Touch to explore more option
 </ul>
 ![alt Tab](https://github.com/rrramanan/WatchKitDialer/blob/master/img4.png)
 <br><br>
-iOS App 
+<strong>iOS App</strong><br>
+Recent Tab
 <ul>
-<li>Recent Tab</li>
 <li>Calls - View Call log / Saved - View Saved contacts   </li>
 <li>Edit button to delete call logs/saved contatcs </li>
 <li>Swipe left to delete call logs/saved contatcs </li>
