@@ -20,11 +20,19 @@ Force Touch to explore more option
 <br><br>
 iOS App 
 <ul>
-<li> Recent Tab - Calls - View Call log / Saved - View Saved contacts   </li>
+<li>Recent Tab</li>
+<li>Calls - View Call log / Saved - View Saved contacts   </li>
 <li>Edit button to delete call logs/saved contatcs </li>
 <li>Swipe left to delete call logs/saved contatcs </li>
 </ul>
-
+<ul>
+<li>More Tab</li>
+<li>Delete All Calls - Deletes all call log from phone and watch</li>
+<li>Delete All Saved - Deletes all saved conatcts from phone and watch</li>
+</ul>
 
 ![alt Tab](https://github.com/rrramanan/WatchKitDialer/blob/master/img5.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![alt Tab](https://github.com/rrramanan/WatchKitDialer/blob/master/img6.png)
+
+<strong>NOTE</strong>
+
