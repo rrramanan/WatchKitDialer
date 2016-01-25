@@ -34,7 +34,7 @@ iOS App
 ![alt Tab](https://github.com/rrramanan/WatchKitDialer/blob/master/img5.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![alt Tab](https://github.com/rrramanan/WatchKitDialer/blob/master/img6.png)
 
-<strong>NOTE</strong>
+<strong>NOTE</strong><br>
 watchKitDialer is not tested with Apple Watch. 
 When user taps call button in dialer Apple Watch prompts an alert to make a call.
 Call log will be added whether user conform to make a call or decline from the alert.
