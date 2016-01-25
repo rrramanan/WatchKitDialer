@@ -25,7 +25,7 @@ Recent Tab
 <li>Edit button to delete call logs/saved contatcs </li>
 <li>Swipe left to delete call logs/saved contatcs </li>
 </ul>
-<br><br>
+<br>
 More Tab
 <ul>
 <li>Delete All Calls - Deletes all call log from phone and watch</li>
