@@ -3,12 +3,12 @@
 
 Dial any number to start phone call from Apple Watch.
 
-![alt Tab](https://github.com/rrramanan/WatchKitDialer/blob/master/img1.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![alt Tab](https://github.com/rrramanan/WatchKitDialer/blob/master/img2.png)
+![alt Tab](https://github.com/rrramanan/WatchKitDialer/blob/master/img/img1.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![alt Tab](https://github.com/rrramanan/WatchKitDialer/blob/master/img/img2.png)
 <br><br>
 Force Touch to explore more option
 
-![alt Tab](https://github.com/rrramanan/WatchKitDialer/blob/master/img3.png)
+![alt Tab](https://github.com/rrramanan/WatchKitDialer/blob/master/img/img3.png)
 <br><br>
 <ul>
 <li>Save - Dial any number, force touch dial pad & save the contact  </li>
@@ -16,7 +16,7 @@ Force Touch to explore more option
 <li>Saved List - View saved contacts</li>
 <li>Force Touch inside Recent/Saved list to delete entite details from watch and iPhone</li>
 </ul>
-![alt Tab](https://github.com/rrramanan/WatchKitDialer/blob/master/img4.png)
+![alt Tab](https://github.com/rrramanan/WatchKitDialer/blob/masterimg//img4.png)
 <br><br>
 <strong>iOS App</strong><br><br>
 Recent Tab
@@ -32,8 +32,8 @@ More Tab
 <li>Delete All Saved - Deletes all saved conatcts from phone and watch</li>
 </ul>
 <br>
-![alt Tab](https://github.com/rrramanan/WatchKitDialer/blob/master/img5.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![alt Tab](https://github.com/rrramanan/WatchKitDialer/blob/master/img6.png)
+![alt Tab](https://github.com/rrramanan/WatchKitDialer/blob/master/img/img5.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![alt Tab](https://github.com/rrramanan/WatchKitDialer/blob/master/img/img6.png)
 
 <strong>NOTE</strong><br>
 watchKitDialer is not tested with Apple Watch. 
