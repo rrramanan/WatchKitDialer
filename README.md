@@ -16,7 +16,7 @@ Force Touch to explore more option
 <li>Saved List - View saved contacts</li>
 <li>Force Touch inside Recent/Saved list to delete entite details from watch and iPhone</li>
 </ul>
-![alt Tab](https://github.com/rrramanan/WatchKitDialer/blob/masterimg//img4.png)
+![alt Tab](https://github.com/rrramanan/WatchKitDialer/blob/master/img/img4.png)
 <br><br>
 <strong>iOS App</strong><br><br>
 Recent Tab
