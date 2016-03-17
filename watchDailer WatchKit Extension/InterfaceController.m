@@ -842,7 +842,7 @@ NSMutableArray *unrevArr_td;
     
    // NSLog(@"save Contacts Number %@",listSavedno);
 
-    
+        [[WKInterfaceDevice currentDevice]playHaptic:WKHapticTypeSuccess]; //haptic feedback !!
     
     [[WCSession defaultSession]sendMessage:savenum replyHandler:^(NSDictionary *reply){
         
